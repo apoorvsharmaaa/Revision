@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10b43018-fe47-457f-bfbb-097944e36a27" name="Changes" comment="Merge remote-tracking branch 'opop/master'">
-      <change afterPath="$PROJECT_DIR$/src/Array/FindIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SwapKthElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindIndex">
+  <component name="RunManager" selected="Application.SwapKthElement">
     <configuration name="AlternateElementsOfAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.AlternateElementsOfAnArray" />
       <module name="Revision" />
@@ -93,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.SumOfArrayElements" />
+    <configuration name="SwapKthElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.SwapKthElement" />
       <module name="Revision" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapKthElement" />
         <item itemvalue="Application.FindIndex" />
         <item itemvalue="Application.CountOfSmallerElements" />
         <item itemvalue="Application.SumOfArray" />
         <item itemvalue="Application.AlternateElementsOfAnArray" />
-        <item itemvalue="Application.SumOfArrayElements" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698125327229</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'opop/master'">
+      <created>1698125761971</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1698125761971</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
