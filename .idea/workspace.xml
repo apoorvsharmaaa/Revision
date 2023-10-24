@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10b43018-fe47-457f-bfbb-097944e36a27" name="Changes" comment="Merge remote-tracking branch 'opop/master'" />
+    <list default="true" id="10b43018-fe47-457f-bfbb-097944e36a27" name="Changes" comment="Merge remote-tracking branch 'opop/master'">
+      <change afterPath="$PROJECT_DIR$/src/Array/FindIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountOfSmallerElements">
+  <component name="RunManager" selected="Application.FindIndex">
     <configuration name="AlternateElementsOfAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.AlternateElementsOfAnArray" />
       <module name="Revision" />
@@ -53,6 +56,19 @@
     </configuration>
     <configuration name="CountOfSmallerElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.CountOfSmallerElements" />
+      <module name="Revision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.FindIndex" />
       <module name="Revision" />
       <extension name="coverage">
         <pattern>
@@ -90,26 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueEqualToIndexValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.ValueEqualToIndexValue" />
-      <module name="Revision" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindIndex" />
         <item itemvalue="Application.CountOfSmallerElements" />
         <item itemvalue="Application.SumOfArray" />
         <item itemvalue="Application.AlternateElementsOfAnArray" />
         <item itemvalue="Application.SumOfArrayElements" />
-        <item itemvalue="Application.ValueEqualToIndexValue" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697965878950</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'opop/master'">
+      <created>1698125327229</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1698125327229</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
