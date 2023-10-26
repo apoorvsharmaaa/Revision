@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10b43018-fe47-457f-bfbb-097944e36a27" name="Changes" comment="Merge remote-tracking branch 'opop/master'">
-      <change afterPath="$PROJECT_DIR$/src/Array/ReverseAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MinInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MinInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ContainsDuplicate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +40,9 @@
     "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseAnArray">
-    <configuration name="FindIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.FindIndex" />
+  <component name="RunManager" selected="Application.ContainsDuplicate">
+    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ContainsDuplicate" />
       <module name="Revision" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContainsDuplicate" />
         <item itemvalue="Application.ReverseAnArray" />
         <item itemvalue="Application.MinInAnArray" />
         <item itemvalue="Application.MaxInAnArray" />
         <item itemvalue="Application.SwapKthElement" />
-        <item itemvalue="Application.FindIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698308522867</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'opop/master'">
+      <created>1698312083907</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1698312083907</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
